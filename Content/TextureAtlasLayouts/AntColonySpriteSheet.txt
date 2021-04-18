@@ -1,0 +1,67 @@
+texture AntColonySpriteSheet
+size w 512 h 256
+
+name Ant
+x 0 y 0 w 64 h 64
+name BushBig
+x 64 y 0 w 64 h 64
+name BushSmall
+x 128 y 0 w 64 h 64
+name GrassA
+x 192 y 0 w 64 h 64
+name GrassB
+x 256 y 0 w 64 h 64
+name GrassC
+x 320 y 0 w 64 h 64
+name GrassMudBottom
+x 384 y 0 w 64 h 64
+name GrassMudBottomLeft
+x 448 y 0 w 64 h 64
+name GrassMudBottomRight
+x 0 y 64 w 64 h 64
+name GrassMudHintBottomLeft
+x 64 y 64 w 64 h 64
+name GrassMudHintBottomRight
+x 128 y 64 w 64 h 64
+name GrassMudHintTopRight
+x 192 y 64 w 64 h 64
+name GrassMudLeft
+x 256 y 64 w 64 h 64
+name GrassMudRight
+x 320 y 64 w 64 h 64
+name GrassMudTop
+x 384 y 64 w 64 h 64
+name GrassMudTopLeft
+x 448 y 64 w 64 h 64
+name GrassMudTopRight
+x 0 y 128 w 64 h 64
+name Mud
+x 64 y 128 w 64 h 64
+name MudGrassBottomLeft
+x 128 y 128 w 64 h 64
+name MudGrassBottomRight
+x 192 y 128 w 64 h 64
+name MudGrassHintBottomLeft
+x 256 y 128 w 64 h 64
+name MudGrassHintBottomRight
+x 320 y 128 w 64 h 64
+name MudGrassHintTopLeft
+x 384 y 128 w 64 h 64
+name MudGrassHintTopRight
+x 448 y 128 w 64 h 64
+name MudGrassLeft
+x 0 y 192 w 64 h 64
+name MudGrassRight
+x 64 y 192 w 64 h 64
+name MudGrassTop
+x 128 y 192 w 64 h 64
+name MudGrassTopLeft
+x 192 y 192 w 64 h 64
+name MudGrassTopRight
+x 256 y 192 w 64 h 64
+name MudGrassBottom
+x 320 y 192 w 64 h 64
+name NestA
+x 384 y 192 w 64 h 64
+name NestB
+x 448 y 192 w 64 h 64

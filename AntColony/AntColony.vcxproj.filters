@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source\AntColonyGame.cpp" />
+    <ClCompile Include="Source\TileGrid.cpp" />
+    <ClCompile Include="Source\TileGridUtilities.cpp" />
+    <ClCompile Include="Source\GridGenerator.cpp" />
+    <ClCompile Include="Source\Tile.cpp" />
+    <ClCompile Include="Source\AntNest.cpp" />
+    <ClCompile Include="Source\Ant.cpp" />
+    <ClCompile Include="Source\FoodManager.cpp" />
+    <ClCompile Include="Source\AntStates.cpp" />
+    <ClCompile Include="Source\GridGeneratorUtilities.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\AntColonyGame.h" />
+    <ClInclude Include="Source\GameConfig.h" />
+    <ClInclude Include="Source\Tile.h" />
+    <ClInclude Include="Source\TileGrid.h" />
+    <ClInclude Include="Source\TileGridUtilities.h" />
+    <ClInclude Include="Source\GridGenerator.h" />
+    <ClInclude Include="Source\AntWorld.h" />
+    <ClInclude Include="Source\AntNest.h" />
+    <ClInclude Include="Source\Ant.h" />
+    <ClInclude Include="Source\FoodManager.h" />
+    <ClInclude Include="Source\AntStates.h" />
+    <ClInclude Include="Source\GridPosition.h" />
+    <ClInclude Include="Source\GridGeneratorUtilities.h" />
+    <ClInclude Include="Source\Pheromones.h" />
+  </ItemGroup>
+</Project>
